@@ -1,2 +1,0 @@
-ALTER TABLE recruits
-ADD COLUMN coins INTEGER NOT NULL DEFAULT 0 CHECK (coins >= 0);
