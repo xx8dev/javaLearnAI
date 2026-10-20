@@ -117,28 +117,28 @@ JAVA_HOME=/home/kriksson/.jdks/temurin-21.0.12.1 PATH=/home/kriksson/.jdks/temur
 - Имя: Анастас.
 - Опыт Java: отсутствует.
 - Интересы: финансовые операции, игры и кино.
-- Текущий практический уровень: успешно применяет `int`, арифметику, методы с параметрами, `boolean`, сравнения, `if` и `while`; изучает массивы.
-- Решено задач: **3**.
-- Подтверждённые навыки: тип `int`, целочисленные операции, методы с параметрами и возвращаемым значением, логический тип `boolean`, сравнение чисел, ветвление `if`, цикл `while`.
+- Текущий практический уровень: успешно применяет `int`, арифметику, методы с параметрами, `boolean`, сравнения, `if`, `while` и массивы `int[]`; изучает вложенные циклы `while`.
+- Решено задач: **4**.
+- Подтверждённые навыки: тип `int`, целочисленные операции, методы с параметрами и возвращаемым значением, логический тип `boolean`, сравнение чисел, ветвление `if`, цикл `while`, массивы `int[]`, индексация и обход массива.
 - Подтверждённый стек: Java 21; код компилируется с `--release 21`.
 
-[![Java 21](https://img.shields.io/badge/Java-21-ED8B00?style=flat-square&logo=openjdk&logoColor=white)](https://openjdk.org/projects/jdk/21/) [![int arithmetic](https://img.shields.io/badge/Java-int_arithmetic-ED8B00?style=flat-square&logo=openjdk&logoColor=white)](https://docs.oracle.com/en/java/javase/21/docs/api/java.base/java/lang/Integer.html) [![Methods](https://img.shields.io/badge/Java-methods_with_parameters-ED8B00?style=flat-square&logo=openjdk&logoColor=white)](https://docs.oracle.com/en/java/javase/21/docs/api/java.base/java/lang/reflect/Method.html) [![boolean](https://img.shields.io/badge/Java-boolean-ED8B00?style=flat-square&logo=openjdk&logoColor=white)](https://docs.oracle.com/en/java/javase/21/docs/api/java.base/java/lang/Boolean.html) [![Comparisons](https://img.shields.io/badge/Java-numeric_comparisons-ED8B00?style=flat-square&logo=openjdk&logoColor=white)](https://docs.oracle.com/en/java/javase/21/language/java-language-changes.html) [![if](https://img.shields.io/badge/Java-if_conditions-ED8B00?style=flat-square&logo=openjdk&logoColor=white)](https://docs.oracle.com/javase/tutorial/java/nutsandbolts/if.html) [![while](https://img.shields.io/badge/Java-while_loop-ED8B00?style=flat-square&logo=openjdk&logoColor=white)](https://docs.oracle.com/javase/tutorial/java/nutsandbolts/while.html)
+[![Java 21](https://img.shields.io/badge/Java-21-ED8B00?style=flat-square&logo=openjdk&logoColor=white)](https://openjdk.org/projects/jdk/21/) [![int arithmetic](https://img.shields.io/badge/Java-int_arithmetic-ED8B00?style=flat-square&logo=openjdk&logoColor=white)](https://docs.oracle.com/en/java/javase/21/docs/api/java.base/java/lang/Integer.html) [![Methods](https://img.shields.io/badge/Java-methods_with_parameters-ED8B00?style=flat-square&logo=openjdk&logoColor=white)](https://docs.oracle.com/en/java/javase/21/docs/api/java.base/java/lang/reflect/Method.html) [![boolean](https://img.shields.io/badge/Java-boolean-ED8B00?style=flat-square&logo=openjdk&logoColor=white)](https://docs.oracle.com/en/java/javase/21/docs/api/java.base/java/lang/Boolean.html) [![Comparisons](https://img.shields.io/badge/Java-numeric_comparisons-ED8B00?style=flat-square&logo=openjdk&logoColor=white)](https://docs.oracle.com/en/java/javase/21/language/java-language-changes.html) [![if](https://img.shields.io/badge/Java-if_conditions-ED8B00?style=flat-square&logo=openjdk&logoColor=white)](https://docs.oracle.com/javase/tutorial/java/nutsandbolts/if.html) [![while](https://img.shields.io/badge/Java-while_loop-ED8B00?style=flat-square&logo=openjdk&logoColor=white)](https://docs.oracle.com/javase/tutorial/java/nutsandbolts/while.html) [![Arrays](https://img.shields.io/badge/Java-arrays-ED8B00?style=flat-square&logo=openjdk&logoColor=white)](https://docs.oracle.com/javase/tutorial/java/nutsandbolts/arrays.html)
 
 Навыки и стек будут добавляться только после успешных задач, в которых ученик применит их на практике.
 
 ## Прогресс
 
-- Решено задач: **3**.
-- Последняя решённая задача: [№3 — Сколько игровых дней копить на предмет?](tasks/completed/task_003_game_savings_days/README.md).
-- История: [№1 — Первое пополнение игрового счёта](tasks/completed/task_001_game_balance_top_up/README.md), [№2 — Достаточно ли средств для покупки?](tasks/completed/task_002_game_purchase_affordability/README.md), [№3 — Сколько игровых дней копить на предмет?](tasks/completed/task_003_game_savings_days/README.md).
+- Решено задач: **4**.
+- Последняя решённая задача: [№4 — Какая выручка была за кинопоказы?](tasks/completed/task_004_cinema_ticket_revenue/README.md).
+- История: [№1 — Первое пополнение игрового счёта](tasks/completed/task_001_game_balance_top_up/README.md), [№2 — Достаточно ли средств для покупки?](tasks/completed/task_002_game_purchase_affordability/README.md), [№3 — Сколько игровых дней копить на предмет?](tasks/completed/task_003_game_savings_days/README.md), [№4 — Какая выручка была за кинопоказы?](tasks/completed/task_004_cinema_ticket_revenue/README.md).
 
 ## Последняя решённая задача
 
-[№3 — Сколько игровых дней копить на предмет?](tasks/completed/task_003_game_savings_days/README.md).
+[№4 — Какая выручка была за кинопоказы?](tasks/completed/task_004_cinema_ticket_revenue/README.md).
 
 ## Текущая задача
 
-[№4 — Какая выручка была за кинопоказы?](tasks/active/task_004_cinema_ticket_revenue/README.md).
+[№5 — Сколько заработал кинотеатр при полной посадке?](tasks/active/task_005_full_cinema_revenue/README.md).
 
 ## Структура
 
