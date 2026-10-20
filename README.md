@@ -117,27 +117,28 @@ JAVA_HOME=/home/kriksson/.jdks/temurin-21.0.12.1 PATH=/home/kriksson/.jdks/temur
 - Имя: Анастас.
 - Опыт Java: отсутствует.
 - Интересы: финансовые операции, игры и кино.
-- Текущий практический уровень: решил первую задачу на `int` и метод с параметрами; готов изучать сравнения и логические значения.
-- Решено задач: **1**.
-- Подтверждённые навыки: тип `int`, целочисленное сложение, метод с параметрами и возвращаемым значением.
+- Текущий практический уровень: успешно применяет `int`, арифметику, методы с параметрами, `boolean` и сравнения; изучает условия и циклы `while`.
+- Решено задач: **2**.
+- Подтверждённые навыки: тип `int`, целочисленные операции, методы с параметрами и возвращаемым значением, логический тип `boolean`, сравнение чисел оператором `>=`.
 - Подтверждённый стек: Java 21; код компилируется с `--release 21`.
 
-[![Java 21](https://img.shields.io/badge/Java-21-ED8B00?style=flat-square&logo=openjdk&logoColor=white)](https://openjdk.org/projects/jdk/21/) [![int arithmetic](https://img.shields.io/badge/Java-int_arithmetic-ED8B00?style=flat-square&logo=openjdk&logoColor=white)](https://docs.oracle.com/en/java/javase/21/docs/api/java.base/java/lang/Integer.html) [![Methods](https://img.shields.io/badge/Java-methods_with_parameters-ED8B00?style=flat-square&logo=openjdk&logoColor=white)](https://docs.oracle.com/en/java/javase/21/docs/api/java.base/java/lang/reflect/Method.html)
+[![Java 21](https://img.shields.io/badge/Java-21-ED8B00?style=flat-square&logo=openjdk&logoColor=white)](https://openjdk.org/projects/jdk/21/) [![int arithmetic](https://img.shields.io/badge/Java-int_arithmetic-ED8B00?style=flat-square&logo=openjdk&logoColor=white)](https://docs.oracle.com/en/java/javase/21/docs/api/java.base/java/lang/Integer.html) [![Methods](https://img.shields.io/badge/Java-methods_with_parameters-ED8B00?style=flat-square&logo=openjdk&logoColor=white)](https://docs.oracle.com/en/java/javase/21/docs/api/java.base/java/lang/reflect/Method.html) [![boolean](https://img.shields.io/badge/Java-boolean-ED8B00?style=flat-square&logo=openjdk&logoColor=white)](https://docs.oracle.com/en/java/javase/21/docs/api/java.base/java/lang/Boolean.html) [![Comparisons](https://img.shields.io/badge/Java-numeric_comparisons-ED8B00?style=flat-square&logo=openjdk&logoColor=white)](https://docs.oracle.com/en/java/javase/21/language/java-language-changes.html)
 
 Навыки и стек будут добавляться только после успешных задач, в которых ученик применит их на практике.
 
 ## Прогресс
 
-- Решено задач: **1**.
-- Последняя решённая задача: [№1 — Первое пополнение игрового счёта](tasks/completed/task_001_game_balance_top_up/README.md).
+- Решено задач: **2**.
+- Последняя решённая задача: [№2 — Достаточно ли средств для покупки?](tasks/completed/task_002_game_purchase_affordability/README.md).
+- История: [№1 — Первое пополнение игрового счёта](tasks/completed/task_001_game_balance_top_up/README.md), [№2 — Достаточно ли средств для покупки?](tasks/completed/task_002_game_purchase_affordability/README.md).
 
 ## Последняя решённая задача
 
-[№1 — Первое пополнение игрового счёта](tasks/completed/task_001_game_balance_top_up/README.md).
+[№2 — Достаточно ли средств для покупки?](tasks/completed/task_002_game_purchase_affordability/README.md).
 
 ## Текущая задача
 
-№1 проверена и архивирована. Следующая задача будет опубликована после синхронизации прогресса.
+[№3 — Сколько игровых дней копить на предмет?](tasks/active/task_003_game_savings_days/README.md).
 
 ## Структура
 
