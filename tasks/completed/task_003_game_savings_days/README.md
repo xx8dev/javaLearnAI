@@ -34,7 +34,6 @@ public static int daysUntilAffordable(int balanceRubles, int priceRubles, int da
 | Баланс | Цена | Награда за день | Результат |
 |---:|---:|---:|---:|
 | 400 | 1 000 | 300 | `2` |
-| 850 | 1 000 | 300 | `1` |
 | 1 000 | 900 | 0 | `0` |
 | 0 | 1 000 | 0 | `-1` |
 
