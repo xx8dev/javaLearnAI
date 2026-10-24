@@ -141,7 +141,7 @@ JAVA_HOME=/home/kriksson/.jdks/temurin-21.0.12.1 PATH=/home/kriksson/.jdks/temur
 
 ## Текущая задача
 
-Следующее задание №11 будет создано после отправки этой проверки.
+[№11 — Как учесть формат кинопоказа?](tasks/active/task_011_cinema_projection_format/README.md).
 
 ## Структура
 
