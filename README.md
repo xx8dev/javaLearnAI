@@ -140,7 +140,7 @@ JAVA_HOME=/home/kriksson/.jdks/temurin-21.0.12.1 PATH=/home/kriksson/.jdks/temur
 
 ## Текущая задача
 
-Следующее задание №10 будет создано после отправки этой проверки.
+[№10 — Когда карточки фильма считаются одинаковыми?](tasks/active/task_010_film_card_equality/README.md).
 
 ## Структура
 
