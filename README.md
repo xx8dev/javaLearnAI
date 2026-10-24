@@ -139,7 +139,7 @@ JAVA_HOME=/home/kriksson/.jdks/temurin-21.0.12.1 PATH=/home/kriksson/.jdks/temur
 
 ## Текущая задача
 
-Следующее задание №9 будет создано после отправки этой проверки.
+[№9 — Как получить понятное описание кинобилета?](tasks/active/task_009_cinema_ticket_tostring/README.md).
 
 ## Структура
 
