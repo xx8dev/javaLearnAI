@@ -117,30 +117,31 @@ JAVA_HOME=/home/kriksson/.jdks/temurin-21.0.12.1 PATH=/home/kriksson/.jdks/temur
 - Имя: Анастас.
 - Опыт Java: отсутствует.
 - Интересы: финансовые операции, игры и кино.
-- Текущий практический уровень: успешно применяет `int`, арифметику, методы с параметрами, декомпозицию, `boolean`, сравнения, `if`, `while`, массивы `int[]`, вложенные циклы `while`, классы и объекты, инкапсуляцию изменяемого состояния и переопределение `toString()`.
-- Решено задач: **9**.
-- Подтверждённые навыки: тип `int`, целочисленные операции, методы с параметрами и возвращаемым значением, декомпозиция и вызов вспомогательного метода, логический тип `boolean`, сравнение чисел, ветвление `if`, цикл `while`, массивы `int[]`, индексация и обход массива, вложенные циклы `while`, классы и объекты, конструкторы, поля объекта и нестатические методы, инкапсуляция состояния и проверка операций перед его изменением, переопределение `Object.toString()` для формирования описания объекта.
+- Текущий практический уровень: успешно применяет `int`, арифметику, методы с параметрами, декомпозицию, `boolean`, сравнения, `if`, `while`, массивы `int[]`, вложенные циклы `while`, классы и объекты, инкапсуляцию изменяемого состояния и методы `Object` `toString()`, `equals()` и `hashCode()`.
+- Решено задач: **10**.
+- Подтверждённые навыки: тип `int`, целочисленные операции, методы с параметрами и возвращаемым значением, декомпозиция и вызов вспомогательного метода, логический тип `boolean`, сравнение чисел, ветвление `if`, цикл `while`, массивы `int[]`, индексация и обход массива, вложенные циклы `while`, классы и объекты, конструкторы, поля объекта и нестатические методы, инкапсуляция состояния и проверка операций перед его изменением, переопределение `Object.toString()`, сравнение содержимого объектов через `equals()` и согласованное вычисление `hashCode()`.
 - Подтверждённый стек: Java 21; код компилируется с `--release 21`.
 
 [![Java 21](https://img.shields.io/badge/Java-21-ED8B00?style=flat-square&logo=openjdk&logoColor=white)](https://openjdk.org/projects/jdk/21/) [![int arithmetic](https://img.shields.io/badge/Java-int_arithmetic-ED8B00?style=flat-square&logo=openjdk&logoColor=white)](https://docs.oracle.com/en/java/javase/21/docs/api/java.base/java/lang/Integer.html) [![Methods](https://img.shields.io/badge/Java-methods_with_parameters-ED8B00?style=flat-square&logo=openjdk&logoColor=white)](https://docs.oracle.com/en/java/javase/21/docs/api/java.base/java/lang/reflect/Method.html) [![Decomposition](https://img.shields.io/badge/Java-method_decomposition-ED8B00?style=flat-square&logo=openjdk&logoColor=white)](https://docs.oracle.com/javase/tutorial/java/javaOO/methods.html) [![Classes and objects](https://img.shields.io/badge/Java-classes_and_objects-ED8B00?style=flat-square&logo=openjdk&logoColor=white)](https://docs.oracle.com/javase/tutorial/java/javaOO/classes.html) [![boolean](https://img.shields.io/badge/Java-boolean-ED8B00?style=flat-square&logo=openjdk&logoColor=white)](https://docs.oracle.com/en/java/javase/21/docs/api/java.base/java/lang/Boolean.html) [![Comparisons](https://img.shields.io/badge/Java-numeric_comparisons-ED8B00?style=flat-square&logo=openjdk&logoColor=white)](https://docs.oracle.com/en/java/javase/21/language/java-language-changes.html) [![if](https://img.shields.io/badge/Java-if_conditions-ED8B00?style=flat-square&logo=openjdk&logoColor=white)](https://docs.oracle.com/javase/tutorial/java/nutsandbolts/if.html) [![while](https://img.shields.io/badge/Java-while_loop-ED8B00?style=flat-square&logo=openjdk&logoColor=white)](https://docs.oracle.com/javase/tutorial/java/nutsandbolts/while.html) [![Arrays](https://img.shields.io/badge/Java-arrays-ED8B00?style=flat-square&logo=openjdk&logoColor=white)](https://docs.oracle.com/javase/tutorial/java/nutsandbolts/arrays.html) [![Nested while](https://img.shields.io/badge/Java-nested_while_loops-ED8B00?style=flat-square&logo=openjdk&logoColor=white)](https://docs.oracle.com/javase/tutorial/java/nutsandbolts/while.html)
 [![Encapsulation](https://img.shields.io/badge/Java-encapsulation-ED8B00?style=flat-square&logo=openjdk&logoColor=white)](https://docs.oracle.com/javase/tutorial/java/javaOO/accesscontrol.html)
 [![Object toString](https://img.shields.io/badge/Java-Object.toString-ED8B00?style=flat-square&logo=openjdk&logoColor=white)](https://docs.oracle.com/en/java/javase/21/docs/api/java.base/java/lang/Object.html#toString())
+[![Object equals and hashCode](https://img.shields.io/badge/Java-Object.equals_hashCode-ED8B00?style=flat-square&logo=openjdk&logoColor=white)](https://docs.oracle.com/en/java/javase/21/docs/api/java.base/java/lang/Object.html)
 
 Навыки и стек будут добавляться только после успешных задач, в которых ученик применит их на практике.
 
 ## Прогресс
 
-- Решено задач: **9**.
-- Последняя решённая задача: [№9 — Как получить понятное описание кинобилета?](tasks/completed/task_009_cinema_ticket_tostring/README.md).
-- История: [№1 — Первое пополнение игрового счёта](tasks/completed/task_001_game_balance_top_up/README.md), [№2 — Достаточно ли средств для покупки?](tasks/completed/task_002_game_purchase_affordability/README.md), [№3 — Сколько игровых дней копить на предмет?](tasks/completed/task_003_game_savings_days/README.md), [№4 — Какая выручка была за кинопоказы?](tasks/completed/task_004_cinema_ticket_revenue/README.md), [№5 — Сколько заработал кинотеатр при полной посадке?](tasks/completed/task_005_full_cinema_revenue/README.md), [№6 — Как посчитать выручку нескольких кинопоказов?](tasks/completed/task_006_session_revenue_summary/README.md), [№7 — Сколько стоит заказ билетов?](tasks/completed/task_007_ticket_order_object/README.md), [№8 — Как защищать баланс игрового кошелька?](tasks/completed/task_008_game_wallet_encapsulation/README.md), [№9 — Как получить понятное описание кинобилета?](tasks/completed/task_009_cinema_ticket_tostring/README.md).
+- Решено задач: **10**.
+- Последняя решённая задача: [№10 — Когда карточки фильма считаются одинаковыми?](tasks/completed/task_010_film_card_equality/README.md).
+- История: [№1 — Первое пополнение игрового счёта](tasks/completed/task_001_game_balance_top_up/README.md), [№2 — Достаточно ли средств для покупки?](tasks/completed/task_002_game_purchase_affordability/README.md), [№3 — Сколько игровых дней копить на предмет?](tasks/completed/task_003_game_savings_days/README.md), [№4 — Какая выручка была за кинопоказы?](tasks/completed/task_004_cinema_ticket_revenue/README.md), [№5 — Сколько заработал кинотеатр при полной посадке?](tasks/completed/task_005_full_cinema_revenue/README.md), [№6 — Как посчитать выручку нескольких кинопоказов?](tasks/completed/task_006_session_revenue_summary/README.md), [№7 — Сколько стоит заказ билетов?](tasks/completed/task_007_ticket_order_object/README.md), [№8 — Как защищать баланс игрового кошелька?](tasks/completed/task_008_game_wallet_encapsulation/README.md), [№9 — Как получить понятное описание кинобилета?](tasks/completed/task_009_cinema_ticket_tostring/README.md), [№10 — Когда карточки фильма считаются одинаковыми?](tasks/completed/task_010_film_card_equality/README.md).
 
 ## Последняя решённая задача
 
-[№9 — Как получить понятное описание кинобилета?](tasks/completed/task_009_cinema_ticket_tostring/README.md).
+[№10 — Когда карточки фильма считаются одинаковыми?](tasks/completed/task_010_film_card_equality/README.md).
 
 ## Текущая задача
 
-[№10 — Когда карточки фильма считаются одинаковыми?](tasks/active/task_010_film_card_equality/README.md).
+Следующее задание №11 будет создано после отправки этой проверки.
 
 ## Структура
 
