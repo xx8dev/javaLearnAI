@@ -144,7 +144,7 @@ JAVA_HOME=/home/kriksson/.jdks/temurin-21.0.12.1 PATH=/home/kriksson/.jdks/temur
 
 ## Текущая задача
 
-[№13 — Как разные способы перевода рассчитывают комиссию?](tasks/active/task_013_transfer_fee_polymorphism/README.md).
+[№14 — Что выгоднее: оплата за часы просмотра или месячный тариф?](tasks/active/task_014_streaming_cost_abstraction/README.md).
 
 ## Структура
 
