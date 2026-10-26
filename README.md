@@ -143,7 +143,7 @@ JAVA_HOME=/home/kriksson/.jdks/temurin-21.0.12.1 PATH=/home/kriksson/.jdks/temur
 
 ## Текущая задача
 
-[№12 — Сколько бонусных баллов начислить за покупку в игровом магазине?](tasks/active/task_012_game_purchase_rewards/README.md).
+[№13 — Как разные способы перевода рассчитывают комиссию?](tasks/active/task_013_transfer_fee_polymorphism/README.md).
 
 ## Структура
 
