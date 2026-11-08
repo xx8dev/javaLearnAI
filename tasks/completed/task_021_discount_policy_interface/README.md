@@ -101,7 +101,7 @@ int calculateDiscountRubles(int priceRubles);
 ## Где создавать файлы
 
 - Твои три файла: `src/main/java/learning/task021/`.
-- Автоматические проверки: `src/test/java/learning/task021/Task021DiscountPolicyInterfaceTest.java`.
+- Автоматические проверки: `src/test/java/learning/task021/Task021DiscountPolicyInterfaceTest.java` в корне проекта.
 - Условие и пример находятся в этом `README.md`; пример не копируй в файлы решения.
 
 Пока реализации нет, тесты могут завершиться ошибкой компиляции — это ожидаемо. Когда создашь классы, запусти из корня проекта:
